@@ -11,8 +11,8 @@ It's like Sheldon lives on your command line! :D
 
 To Do:
 ------
-*Create script to clean up quotes, remove duplicates, etc
-*Make it a chat bot for IRC, etc
+* Create script to clean up quotes, remove duplicates, etc
+* Make it a chat bot for IRC, etc
 
 
 Check out it's sister app at:
