@@ -14,3 +14,7 @@ To Do:
 *Create script to clean up quotes, remove duplicates, etc
 *Make it a chat bot for IRC, etc
 
+
+Check out it's sister app at:
+https://github.com/erinbrown/sheldon-says
+
